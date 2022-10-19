@@ -2,6 +2,8 @@
 
 Digital Media In-Class Presentation of Discrete Convolutions in MATLAB
 
+Pardon my mess, code commenting and documentation under construction :)
+
 ---
 
 ## Resources
